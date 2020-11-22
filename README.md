@@ -1,3 +1,6 @@
+# moved: https://glitchtron.org/veonim
+## also check out [Uivonim](https://github.com/smolck/uivonim)
+
 ![](./docs/header.png)
 
 Veonim is a simple modal IDE built on Neovim and VSCode extensions. The goal is to create my ideal programming environment
